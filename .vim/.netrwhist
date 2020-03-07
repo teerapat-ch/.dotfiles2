@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/time/lab/mlcup3time'
+let g:netrw_dirhist_8='/home/time/lab/mlcup3time/mlcup3time/playground'
+let g:netrw_dirhist_7='/home/time/lab/mlcup3time'
+let g:netrw_dirhist_6='/home/time/lab/mlcup3time/mlcup3time/info_utils'
+let g:netrw_dirhist_5='/home/time/lab/mlcup3time/mlcup3time'
+let g:netrw_dirhist_4='/home/time/lab/mlcup3time'
+let g:netrw_dirhist_3='/home/time/lab/mlcup3time/data/models'
+let g:netrw_dirhist_2='/home/time/lab/mlcup3time/data'
+let g:netrw_dirhist_1='/home/time/lab/mlcup3time'
+let g:netrw_dirhist_0='/home/time/lab/mlcup3time/mlcup3time/constants'
