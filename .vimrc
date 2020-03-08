@@ -15,7 +15,7 @@ Plugin 'gmarik/Vundle.vim'
 " used Bundle instead of Plugin)
 "================================================================================ 
 " Python Stuff 
-" Bundle 'Valloric/YouCompleteMe'
+" Plugin 'Valloric/YouCompleteMe'
 " let g:ycm_autoclose_preview_window_after_completion=1
 " map <leader>g  :YcmCompleter GoToDefinitionElseDeclaration<CR>
 "python with virtualenv support
