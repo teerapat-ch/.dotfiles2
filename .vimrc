@@ -74,8 +74,10 @@ autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
 " Auto close if nerd tree is the only window left
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
 
-" Map Ctrl + 1 to toggle NerdTree
+" Map shortcut to toggle NerdTree
 map <C-n> :NERDTreeToggle<CR>
+map g<C-n> :NERDTreeFind<CR>
+
 
 " Need Python Syntax
 let g:python_highlight_all = 1
