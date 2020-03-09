@@ -14,3 +14,5 @@ This is my attempt to store my dotfiles in a clean way.
 - https://realpython.com/vim-and-python-a-match-made-in-heaven/
 
 
+### Ways to manage `.vimrc`
+- https://learnvimscriptthehardway.stevelosh.com/chapters/07.html
